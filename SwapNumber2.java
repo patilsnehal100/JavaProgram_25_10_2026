@@ -18,6 +18,7 @@ public class SwapNumber2 {
 		b=temp;
 		
 		System.out.println("After swapping value of a=" +a+ " and value of b=" +b);
+		System.out.println("After swapping value of a=" +a+ " and value of b=" +b);
 		
 		
 
