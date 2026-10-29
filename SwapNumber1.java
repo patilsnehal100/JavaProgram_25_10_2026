@@ -17,7 +17,7 @@ public class SwapNumber1 {
 		a=a-b;
 		
 		System.out.println("After swapping value of a=" +a+ " and value of b=" +b);
-		
+		System.out.println("After swapping value of a=" +a+ " and value of b=" +b);
 		
 
 	}
